@@ -1,4 +1,4 @@
 # John Smilga's React Project
 
-## Project 01 - Birthday Reminder
+## Project 02 - Tour Card
 
